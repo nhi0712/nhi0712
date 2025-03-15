@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nhi0712
-- 👀 I’m interested in Frontend-Entwicklung
+- 👀 I’m interested in Front-End Development
   
 
 <!---
